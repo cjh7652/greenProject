@@ -1,0 +1,4 @@
+table{width: 1200px; margin: 20px auto; border-collapse: collapse; border: 3px double #ccc; }
+th, td{border: 1px solid #ccc; padding: 20px; line-height: 180%;}
+td{text-align: center;}
+td:nth-child(3){text-align: left;}
